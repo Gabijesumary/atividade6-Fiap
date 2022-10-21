@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Atividade 6 – FIAP 🔴⚫
 
-## Getting Started
+### Integrantes 👥
+- Aline Melissa;
+- Gabriela Jesumary;
+- Igo Marcos;
+- Pilar Leminski;
+- Vitória Neris Mendes.
 
-First, run the development server:
+### Descrição 📋
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Clonando projeto React e desmembrando componentes 👩🏻‍💻<br />
+<b>Tutor:</b> <i>Gláucio Daniel</i>.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1 - Clone o repositório: https://github.com/glauciodaniel/fiap-avanade-trabalho;<br />
+2 - Instale as dependências;<br />
+3 - Faça o projeto rodar;<br />
+4 - Haverá um erro visual no código, corrija-o;<br />
+5 - Separe o código em pelo menos dois componentes. <b>Cuidado para não exagerar criando componentes desnecessários.</b><br />
+<br />
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Desenvolvimento ⚙
+Confira abaixo a proposta acerca do problema e a solução encontrada pelo grupo:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Proposta ❔
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/93789218/197221732-47713e0e-01ce-43dc-b583-9068ea5830af.png">
 
-## Learn More
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+### Solução ✅
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/93789218/197225334-c6323df1-42f6-45fb-9658-c83923533ec4.png">
+<br />
+<i>A imagem do footer direciona para o repositório do projeto, assim como o primeiro quadro "encontre o erro"</i>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acesse este projeto 💻
+<i>Confira o funcionamento deste sistema em: https://fiap-atividade6-components.vercel.app</i> 🤓
+<br />
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
