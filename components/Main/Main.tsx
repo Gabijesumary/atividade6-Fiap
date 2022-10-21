@@ -6,7 +6,7 @@ export default function Main() {
   return (
     <>
         <div className={styles.grid}>
-          <a className={styles.card}>
+          <a href="https://github.com/Gabijesumary/atividade6-Fiap" className={styles.card}>
           <h2>Encontre o erro  &rarr;</h2>
           <p><del className={styles.erro}>Existe um erro neste arquivo.</del> Veja que este bloco aparece diferente na tela.</p>
           </a>
