@@ -20,3 +20,5 @@ Clonando projeto React, desmembrando componentes
 ### Resultado 👩🏻‍💻
 
 <img width="723" alt="image" src="https://user-images.githubusercontent.com/100864157/197217288-e1a3b324-f561-40e8-818e-7e704aa189e7.png">
+
+<i>A imagem do footer direciona para o repositório do projeto, assim como o primeiro quadro "encontre o erro"</i>
