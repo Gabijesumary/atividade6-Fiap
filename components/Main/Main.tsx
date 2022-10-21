@@ -8,7 +8,7 @@ export default function Main() {
         <div className={styles.grid}>
           <a href="https://github.com/Gabijesumary/atividade6-Fiap" className={styles.card}>
           <h2>Encontre o erro  &rarr;</h2>
-          <p><del className={styles.erro}>Existe um erro neste arquivo.</del> Veja que este bloco aparece diferente na tela.</p>
+          <p><del className={styles.erro}>Existe um erro neste arquivo.</del> Corrigido! Clique aqui para visualizar o repositório.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
